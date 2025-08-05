@@ -11,9 +11,9 @@ section.
 
 i am not responsible for any legal action caused by this tool
 the way this is used is outside of my responsibilities
-if you do use this in any iligal the one who used it is 
-risking iligal fines of private security. i dont condone
-the use of iligal acts with this tool.
+if you do use this in any illigal the one who used it is 
+risking illigal fines of private security. i dont condone
+the use of illigal acts with this tool.
 
 # MIT AGGREMENT 
 
